@@ -33,7 +33,32 @@ async function getApiGitHub() {
             <article class="about_content">
  
                 <h2>Sobre mim</h2>
-                <p>Eu tenho só 4 anos todo dia crescendo e aprendendo, sou Caillou </p>
+                <p>
+                    Eu tenho só quatro anos
+                    Todo dia crescendo
+                    Xeretando
+                    Sou Caillou
+
+                    Coisas novas para fazer
+                    Todo dia brincar
+                    Aprendendo
+                    Sou Caillou
+
+                    Meu mundo gira
+                    Descobrindo a cada dia
+                    Mamãe e papai
+                    Iluminando o caminho
+
+                    Crescer
+                    Não é tão fácil assim
+                    Cada dia na vida
+                    É uma nova surpresa
+
+                    Caillou
+                    Caillou
+                    Sou Caillou
+                    Sou eu 
+                </p>
                  
                 <div class="about_stats">
                     <a href="${perfilJson.html_url}" target="_blank" class="botao">Ver GitHub</a>
