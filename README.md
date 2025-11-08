@@ -56,7 +56,8 @@ Isso abrirá o site em seu navegador padrão, e você poderá visualizar e testa
 
 Este site está disponível publicamente através do **GitHub Pages**. Você pode acessar a versão online pelo link abaixo:
 
-- [Portfólio Pessoal](https://seu-usuario.github.io/seu-repositorio)
+- [Portfólio Ficticio ](carol1692.github.io/portfolio_java/)
+- [Portfólio Pessoal ](https://analemos.xyz/portfolio/)
 
 <br />
 
